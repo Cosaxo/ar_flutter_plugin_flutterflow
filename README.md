@@ -1,3 +1,5 @@
+# NOTE: THIS FORK IS NOT THE OFFICIAL FORK.
+Please go to [pub.dev](https://pub.dev/packages/ar_flutter_plugin_flutterflow) and check the fork recognized by this website.
 # ar_flutter_plugin_flutterflow
 [![pub package](https://img.shields.io/pub/v/ar_flutter_plugin_flutterflow.svg)](https://pub.dev/packages/ar_flutter_plugin_flutterflow)
 
